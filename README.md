@@ -3,7 +3,7 @@
 ### 🔧 My technical skills include:
 
 🚀 **Backend:**
-- Java, Spring (Boot, Data JPA, Security), Junit, Hibernate, SQL(PostgreSQL)
+- Java, Spring (Boot, Data JPA, Security), JUnit, Hibernate, SQL(PostgreSQL)
 
 🎨 **Frontend:**
 - Angular 17, TypeScript, HTML5, CSS3 
