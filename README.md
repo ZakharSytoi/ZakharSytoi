@@ -2,6 +2,9 @@
 ---
 ### 🔧 My technical skills include:
 
+💡**Conceptual Skills:**
+- Object-Oriented Programming, Design Patterns, SOLID Principles, API Design and RESTful principles
+
 🚀 **Backend:**
 - Java, Spring (Boot, Data JPA, Security), JUnit, Hibernate, SQL(PostgreSQL)
 
