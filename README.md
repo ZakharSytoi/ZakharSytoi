@@ -1,4 +1,4 @@
-👋 Hi, I'm Zakhar Sytoi, a dedicated student of Krakow University of Technology and Java developer with a passion for creating impactful solutions.
+👋 Hi, I'm Zakhar Sytoi, a dedicated student of Cracow University of Technology and Java developer with a passion for creating impactful solutions.
 ---
 ### 🔧 My technical skills include:
 
