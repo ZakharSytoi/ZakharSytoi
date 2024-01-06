@@ -9,7 +9,7 @@
 - Angular 17, TypeScript, HTML5, CSS3 
 
 🛠 **Tools:**
-- Maven/Gradle, Git, Docker/DockerCompose, Jenkins, AWS, Mapstruct, SonarQube
+- Linux, Maven/Gradle, Git, Docker/DockerCompose, Jenkins, AWS, Mapstruct, SonarQube
 ---
 🤝 I am actively seeking opportunities to contribute my skills and dedication to a forward-thinking team. Whether it's solving complex problems or developing innovative solutions, I am eager to bring my unique perspective and passion for coding to a professional setting.
 
